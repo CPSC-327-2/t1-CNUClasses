@@ -3,7 +3,7 @@
     {
       "name": "t1",
       "setup": "",
-      "run": "make test",
+      "run": "make",
       "input": "",
       "output": "",
       "comparison": "included",
